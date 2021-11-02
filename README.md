@@ -1,4 +1,5 @@
-# w0d0_precourse-challenge-julija777
+# Tribute_Page_Julija777
+
 w0d0_precourse-challenge-julija777 created by GitHub Classroom
 
 The tasks from SoC are:
@@ -26,8 +27,10 @@ it and any reflections on the development journey.
 * Add, commit, and push your changes to that repository using your new Git skills on the command line in the VS Code terminal.
 * Host the website using GitHub pages.
 
-Link to the completed Julija_Tribute_page is:
+Link to the original code when I've started to code is:
 
 https://codepen.io/julija777/pen/mdMWpbW
+
+Then it was modified by me in VSCode and then a bit straight in the GitHub.
 
 P.S. I decided not to overthink so I created a tribute page about myself because it’s quicker to get information and no need to ask for rights to publicise someone's photos. I was excited when managed to link my photos directly from social media to the tribute page. No need for storage on a local PC and no extra downloads. Wow!
